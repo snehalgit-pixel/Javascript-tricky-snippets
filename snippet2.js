@@ -1,4 +1,4 @@
-let x = "Jones";
+let x = new String("Jones");
 let y = new String("Jones");
 const a = x==y ? true : false;
 const b = x===y ? true : false;
